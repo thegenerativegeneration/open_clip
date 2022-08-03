@@ -44,6 +44,11 @@ _VITB32 = dict(
     laion2b_e16="https://github.com/mlfoundations/open_clip/releases/download/v0.2-weights/vit_b_32-laion2b_e16-af8dbd0c.pth",
     laion400m_e31="https://github.com/mlfoundations/open_clip/releases/download/v0.2-weights/vit_b_32-quickgelu-laion400m_e31-d867053b.pt",
     laion400m_e32="https://github.com/mlfoundations/open_clip/releases/download/v0.2-weights/vit_b_32-quickgelu-laion400m_e32-46683a32.pt",
+    ukiyoe35k_e1="https://huggingface.co/thegenerativegeneration/ukiyo-e-clip/resolve/test/models/vit_b_32_ukiyoe_e1.pt",
+    ukiyoe35k_e2="https://huggingface.co/thegenerativegeneration/ukiyo-e-clip/resolve/test/models/vit_b_32_ukiyoe_e2.pt",
+    ukiyoe35k_e3="https://huggingface.co/thegenerativegeneration/ukiyo-e-clip/resolve/test/models/vit_b_32_ukiyoe_e3.pt",
+    ukiyoe35k_e4="https://huggingface.co/thegenerativegeneration/ukiyo-e-clip/resolve/test/models/vit_b_32_ukiyoe_e4.pt",
+    ukiyoe35k_e5="https://huggingface.co/thegenerativegeneration/ukiyo-e-clip/resolve/test/models/vit_b_32_ukiyoe_e5.pt",
 )
 
 _VITB32_quickgelu = dict(
